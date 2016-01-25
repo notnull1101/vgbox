@@ -14,5 +14,13 @@ sudo vi vgbox/vgbox.sh
 APPDIR='/opt/vgbox/'
 ```
 
+```
+sudo ln -s /opt/vgbox/vgbox.sh /usr/local/bin/vgbox
+```
+Run on project
+```
+vgbox [box_name] [ram] [project_name]
+```
+
 
 
