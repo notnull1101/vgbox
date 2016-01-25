@@ -1,0 +1,9 @@
+[README]
+-- SSH Configuration file 
+	Configuration file is created by running 'vagrant ssh-config'
+	Command output is saved into '.vagrant/machines/default/virtualbox/ssh-config'
+	
+	Add alises to your .bashrc 
+	alias sshvagrant="ssh -F .vagrant/machines/default/virtualbox/ssh-config"
+	Connect to vm run 'sshvagrant default' inside project root directory
+	
