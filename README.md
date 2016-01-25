@@ -17,8 +17,10 @@ APPDIR='/opt/vgbox/'
 ```
 sudo ln -s /opt/vgbox/vgbox.sh /usr/local/bin/vgbox
 ```
-Run on project
+Usage
 ```
+mkdir ~/Vagrant
+cd ~/Vagrant
 vgbox [box_name] [ram] [project_name]
 ```
 
