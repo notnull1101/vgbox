@@ -24,4 +24,4 @@ mkdir ~/Vagrant
 cd ~/Vagrant
 vgbox [box_name] [ram] [project_name]
 ```
-![screenshot]('/Users/alex/Dropbox/Git/Projects/bash/Vagrant_Project/img')
+![screenshot](https://raw.githubusercontent.com/notnull1101/vgbox/master/img/img01.png)
